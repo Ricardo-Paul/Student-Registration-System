@@ -1,3 +1,7 @@
+Below are listed the classes and functions included in the program
+This programs allow to register students - provides access to calculate and store students average
+
+
 On_Start --> Displays welcoming messages on program Staring
 Key_pass --> Prompts user to input PassCode
 Program_Accessed ---> Show password has been correctly input and redirect users to the main screen
