@@ -1,5 +1,5 @@
 Below are listed the classes and functions included in the program
-This programs allow to register students - provides access to calculate and store students average
+This programs allow to register students - provides access to calculate and store students grade
 
 
 On_Start --> Displays welcoming messages on program Staring
